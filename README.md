@@ -1,6 +1,6 @@
-# cube.odin
+# TerminalCube
 
-An Odin implementation of [cube.c](https://github.com/tarantino07/cube.c) which uses the following [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to perform a basic 3-dimensional rotation in Euclidean space:
+Various implementations of [cube.c](https://github.com/tarantino07/cube.c) which use the following [rotation matrix](https://en.wikipedia.org/wiki/Rotation_matrix) to perform a basic 3-dimensional rotation in Euclidean space:
 <br />
 ```math
 <math display=block>
